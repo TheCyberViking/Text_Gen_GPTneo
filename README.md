@@ -11,3 +11,5 @@ So I got lazy and wrote this at 1am after being asked to write a 5 page 2500 sam
 ## Required Installs
 - gradio =  **!pip install -q gradio**
 - aitextgen = **!pip install -q aitextgen**
+
+! [bot working] (E3epTvdXwAEtsTN.jpg)
