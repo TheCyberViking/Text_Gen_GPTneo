@@ -9,5 +9,5 @@ So I got lazy and wrote this at 1am after being asked to write a 5 page 2500 sam
 **Note C:** Use GPU other wise this can take anywhere up to 30 minutes on CPU... 
 
 ## Required Installs
-gradio =  **!pip install -q gradio**
-aitextgen = **!pip install -q aitextgen**
+- gradio =  **!pip install -q gradio**
+- aitextgen = **!pip install -q aitextgen**
